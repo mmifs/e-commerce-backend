@@ -25,4 +25,8 @@ Tag.init(
   }
 );
 
+Tag.associate = models => {
+  Tag.belongsToMany(Product)
+};
+
 module.exports = Tag;

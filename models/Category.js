@@ -27,4 +27,8 @@ Category.init(
   }
 );
 
+Category.associate = models => {
+  Category.hasMany(Product)
+};
+
 module.exports = Category;
