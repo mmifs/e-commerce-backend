@@ -52,9 +52,4 @@ Product.init(
   }
 );
 
-Product.associate = models => {
-  Product.belongsTo(Category)
-  Product.hasMany(ProductTag)
-};
-
 module.exports = Product;
