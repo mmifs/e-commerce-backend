@@ -12,6 +12,7 @@ This is an example of the backend of an ecommerce platform. The API supports all
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
+* [Tutorial](#tutorial)
 * [Questions](#questions)
 
 
@@ -53,6 +54,11 @@ N/A
 ## Tests
 
 N/A
+
+## Tutorial
+
+
+https://user-images.githubusercontent.com/85654339/140621626-856e98e2-cd12-48cc-9bb6-918fa377a11c.mp4
 
 
 ## Questions
